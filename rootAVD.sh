@@ -2619,9 +2619,9 @@ GetANDROIDHOME() {
 
 	local HOME=~
 	local ANDROIDHOME_M=$HOME/Library/Android/sdk
-	local ANDROIDHOME_L=$HOME/Android/Sdk
+	local ANDROIDHOME_L=$HOME/Downloads/.android_sdk
 	defaultHOME_M="~/Library/Android/sdk"
-	defaultHOME_L="~/Android/Sdk"
+	defaultHOME_L="$HOME/Downloads/.android_sdk"
 	defaultHOME=""
 	local hostarch=""
 	SYSIM_DIR=system-images
