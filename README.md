@@ -1,4 +1,4 @@
-# This Repo has moved to GitLab since 24th of Oct 2023
+# This Repo is forked from official [rootAVD Gitlab](https://gitlab.com/newbit/rootAVD)
 # [rootAVD](https://gitlab.com/newbit/rootAVD)
 ### [newbit @ xda-developers](https://forum.xda-developers.com/m/newbit.1350876)
 A Script to...
